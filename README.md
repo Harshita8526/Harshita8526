@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++<br>👯 I’m looking to collaborate on Software projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Java<br>💬 Ask me about C and Linux<br>⚡ Fun fact : I like  to gain Financial knowledge
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on Software projects<br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning Java<br>💬 Ask me about C and Linux<br>⚡ Fun fact : I like  to gain Financial knowledge
 
 
 ## 🌐 Socials:
